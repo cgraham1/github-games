@@ -1,8 +1,8 @@
-## Welcome to GitHub Games
+## Welcome to :sparkles: ChrisGraham GitHub Games :sparkles:
 
 A project based learning activity for people who are getting started with Git and GitHub.
 
-You can play the game at: http://githubschool.github.io/github-games/
+You can play the game at: http://cgraha1/github-games/
 
 >> _*SUPPORTED BROWSERS*: Chrome, Firefox, Safari, Opera and IE9+_
 
